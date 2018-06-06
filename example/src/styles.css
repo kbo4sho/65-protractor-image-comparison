@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+    /* CHANGE COLOR TO SLIGHTLY DIFFERENT YELLOW TO SEE THAT IT IS NOT BEING PICKED UP BY IMAGE DIFF */
+    color: #feca1e;
+    /* color: #fac929; */
+    
+}
